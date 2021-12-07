@@ -29,7 +29,7 @@ $(document).ready(function(){
    }
   }
  })
- colorUpdate();
+
 //trying to save info into local Stroage.
  $('#hour-1 .description').val(localStorage.getItem('hour-1'));
  $('#hour-2 .description').val(localStorage.getItem('hour-2'));
